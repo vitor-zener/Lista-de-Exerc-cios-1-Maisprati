@@ -4,21 +4,21 @@ Este repositório contém exercícios resolvidos em JavaScript, organizados para
 
 ## 📂 Lista de exercícios
 
-1. Verificar se um número é par ou ímpar – `parOuImpar.js`
-2. Classificar idade – `classificarIdade.js`
-3. Classificação por nota – `classificarNota.js`
-4. Menu interativo – `menuInterativo.js`
-5. Cálculo de IMC – `calcularIMC.js`
-6. Tipo de triângulo – `verificarTriangulo.js`
-7. Compra de maçãs – `comprarMacas.js`
-8. Ordem crescente de dois valores – `ordemCrescente.js`
-9. Contagem regressiva – `contagemRegressiva.js`
-10. Repetir número – `repetirNumero.js`
-11. Somar 5 números – `somaCincoNumeros.js`
-12. Tabuada – `tabuada.js`
-13. Média de decimais – `mediaAritmetica.js`
-14. Fatorial – `fatorial.js`
-15. Sequência de Fibonacci – `fibonacci.js`
+1. Verificar se um número é par ou ímpar – `exercicio_01.js`
+2. Classificar idade – `exercicio_02.js`
+3. Classificação por nota – `exercicio_03.js`
+4. Menu interativo – `exercicio_04.js`
+5. Cálculo de IMC – `exercicio_05.js`
+6. Tipo de triângulo – `exercicio_06.js`
+7. Compra de maçãs – `exercicio_07.js`
+8. Ordem crescente de dois valores – `exercicio_08.js`
+9. Contagem regressiva – `exercicio_09.js`
+10. Repetir número – `exercicio_10.js`
+11. Somar 5 números – `exercicio_11.js`
+12. Tabuada – `exercicio_12.js`
+13. Média de decimais – `exercicio_13.js`
+14. Fatorial – `exercicio_14.js`
+15. Sequência de Fibonacci – `exercicio_15.js`
 
 ## ▶️ Como executar os arquivos
 
